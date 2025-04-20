@@ -42,6 +42,7 @@ I'm a Computer Science student at Georgia State University (Graduating May 2025)
 - Buy/Sell/Portfolio dashboards built in React
 - Backend caching to minimize API overhead
 - Azure-hosted deployment & server optimization
+- Team: Hemang Shimpi, Vivek Duggaraju, Nischay Patel
 
 [🔗 GitHub Repo](https://github.com/hemang-shimpi/bearhood)
 
@@ -57,7 +58,7 @@ I'm a Computer Science student at Georgia State University (Graduating May 2025)
 
 > **An LLM-powered chatbot for guiding prospective grad students through application processes and FAQs.**
 
-<img src="https://user-images.githubusercontent.com/yourusername/chatbot-ui.png" alt="Chatbot UI" width="80%"/>
+<img src="https://github.com/hemang-shimpi/Graduate-AI-Chatbot/blob/main/chatbot%20demo.png?raw=true" alt="Chatbot UI" width="20%"/>
 
 **Key Features:**
 - React-based chat UI with dynamic input and responses
@@ -65,6 +66,7 @@ I'm a Computer Science student at Georgia State University (Graduating May 2025)
 - Containerized with Kubernetes, hosted for scalable deployment
 - Backend built with Python, Uvicorn, FastAPI
 - API tested and verified with Postman
+- Team: Hemang Shimpi, Vivek Duggaraju
 
 [🌐 Live Demo](http://askpounce.me/) | [🔗 GitHub Repo](https://github.com/hemang-shimpi/gsu-chatbot)
 
