@@ -34,7 +34,7 @@ I'm a Computer Science student at Georgia State University (Graduating May 2025)
 
 > **A Robinhood-inspired trading simulation app built with real-time stock data and paper trading logic.**
 
-<img src="https://user-images.githubusercontent.com/yourusername/bearhood-screenshot.png" alt="Bearhood Screenshot" width="80%"/>
+<img src="https://github.com/hemang-shimpi/PaperTradingApp/blob/main/bearhood%20demo.png?raw=true" alt="Bearhood Screenshot" width="80%"/>
 
 **Key Features:**
 - Real-time trading simulation via Python WebSocket backend
@@ -58,7 +58,7 @@ I'm a Computer Science student at Georgia State University (Graduating May 2025)
 
 > **An LLM-powered chatbot for guiding prospective grad students through application processes and FAQs.**
 
-<img src="https://github.com/hemang-shimpi/Graduate-AI-Chatbot/blob/main/chatbot%20demo.png?raw=true" alt="Chatbot UI" width="20%"/>
+<img src="https://github.com/hemang-shimpi/Graduate-AI-Chatbot/blob/main/chatbot%20demo.png?raw=true" alt="Chatbot UI" width="40%"/>
 
 **Key Features:**
 - React-based chat UI with dynamic input and responses
